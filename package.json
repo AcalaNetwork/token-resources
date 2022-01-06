@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^4.0.2",
+    "gulp-run": "^1.7.1",
+    "gulp-smushit": "^1.2.0",
     "svg2png": "^4.1.1",
     "xmldom": "^0.6.0"
   },

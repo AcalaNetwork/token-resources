@@ -30,7 +30,7 @@ const transformAll = async () => {
       promises.push(transform(sourceBuffer, 128, name.split('.')[0], dir))
       promises.push(transform(sourceBuffer, 256, name.split('.')[0], dir))
     } else {
-      if (name.startsWith('khala_')) {
+      if (name.startsWith('KHALA_')) {
         fs.writeFileSync(`./dist/${dir}/${name.split('.')[0]}.png`, sourceBuffer)
       } else {
         fs.writeFileSync(`./dist/${dir}/${name.split('.')[0]}_${128}_${128}.png`, sourceBuffer)
