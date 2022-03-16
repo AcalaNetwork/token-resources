@@ -1,0 +1,16 @@
+{
+  "acala": "https://resources.acala.network/network/acala.svg",
+  "bifrost": "https://resources.acala.network/network/bifrost.svg",
+  "hydra": "https://resources.acala.network/network/hydra.png",
+  "karura": "https://resources.acala.network/network/karura.svg",
+  "khala": "https://resources.acala.network/network/khala.svg",
+  "kintsugi": "https://resources.acala.network/network/kintsugi.png",
+  "kusama": "https://resources.acala.network/network/kusama.png",
+  "laminar": "https://resources.acala.network/network/laminar.svg",
+  "phala": "https://resources.acala.network/network/phala.svg",
+  "plasm": "https://resources.acala.network/network/plasm.svg",
+  "polkaBTC": "https://resources.acala.network/network/polkaBTC.svg",
+  "polkadot": "https://resources.acala.network/network/polkadot.svg",
+  "rococo": "https://resources.acala.network/network/rococo.svg",
+  "statemine": "https://resources.acala.network/network/statemine.svg"
+}

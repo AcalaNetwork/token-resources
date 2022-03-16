@@ -1,24 +1,30 @@
 import Image from "next/image";
-import { tokens } from "../components/tokens.ts";
-import { chains } from "../components/chains.ts";
-import { CopyToClipboard } from "react-copy-to-clipboard";
+import tokenList from "../data/tokens.json";
+import chainList from "../data/chains.json";
 import Head from "next/head";
-import { useMemo } from "react";
+import { CopyToClipboard } from "react-copy-to-clipboard";
 
 const PUBLIC_HOST = 'https://resources.acala.network';
+const tokens = Object.values(tokenList)
+const chains = Object.values(chainList)
 
 export default function Home() {
   const hostname = PUBLIC_HOST;
 
   return (
-    <>
+    <div className="p-16 bg-slate-900 min-w-screen min-h-screen">
       <Head>
         <title>Acala Resources</title>
       </Head>
-      <section className="p-16 bg-slate-900 min-w-screen min-h-screen">
-        <h1 className="text-2xl  text-red-400 font-bold mb-16">
+      <section className="max-w-[1200px] m-auto">
+        <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between items-center">
           Acala Tokens
-        </h1>
+          <CopyToClipboard text='https://resource.acala.network/tokens.json'>
+            <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
+              COPY PATH
+            </span>
+          </CopyToClipboard>
+        </h3>
 
         <ul className="flex flex-wrap gap-12">
           {tokens.map((item) => {
@@ -50,10 +56,14 @@ export default function Home() {
           })}
         </ul>
 
-        <h1 className="text-2xl  text-red-400 font-bold mb-16 mt-32">
+        <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between mt-32 items-center">
           Chain Icons
-        </h1>
-
+          <CopyToClipboard text='https://resource.acala.network/chains.json'>
+            <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
+              COPY PATH
+            </span>
+          </CopyToClipboard>
+        </h3>
         <ul className="flex flex-wrap gap-12">
           {chains.map((item) => {
             const file = `https://${hostname}${item.icon}`;
@@ -83,6 +93,6 @@ export default function Home() {
           })}
         </ul>
       </section>
-    </>
+    </div>
   );
 }
