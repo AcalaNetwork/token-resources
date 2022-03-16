@@ -28,7 +28,7 @@ export default function Home() {
 
         <ul className="flex flex-wrap gap-12">
           {tokens.map((item) => {
-            const file = `https://${hostname}${item.icon}`;
+            const file = `${hostname}${item.icon}`;
             const temp = item.icon.split("/");
 
             return (
@@ -66,7 +66,7 @@ export default function Home() {
         </h3>
         <ul className="flex flex-wrap gap-12">
           {chains.map((item) => {
-            const file = `https://${hostname}${item.icon}`;
+            const file = `${hostname}${item.icon}`;
             const temp = item.icon.split("/");
 
             return (
