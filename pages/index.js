@@ -19,7 +19,7 @@ export default function Home() {
       <section className="max-w-[1200px] m-auto">
         <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between items-center">
           Acala Tokens
-          <CopyToClipboard text='https://resource.acala.network/tokens.json'>
+          <CopyToClipboard text='https://resources.acala.network/tokens.json'>
             <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
               COPY PATH
             </span>
@@ -58,7 +58,7 @@ export default function Home() {
 
         <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between mt-32 items-center">
           Chain Icons
-          <CopyToClipboard text='https://resource.acala.network/chains.json'>
+          <CopyToClipboard text='https://resources.acala.network/chains.json'>
             <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
               COPY PATH
             </span>
