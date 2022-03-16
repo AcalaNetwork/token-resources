@@ -35,7 +35,7 @@ export default function Home() {
                 download={temp[temp.length - 1]}
                 className="text-xs text-slate-300 mt-1 text-center"
               >
-                <li className="border-1 border-slate-300 flex-[128px] flex-grow-0 flex-shrink-0 h-[128px] flex justify-center align-center flex-col hover:bg-slate-600 transition-all rounded-md cursor-pointer">
+                <li className="border-1 border-slate-300 flex-[96px] flex-grow-0 flex-shrink-0 w-[96px] h-[96px] flex justify-center align-center flex-col hover:bg-slate-600 transition-all rounded-md cursor-pointer">
                   <Image
                     src={item.icon}
                     alt={item.symbol}
