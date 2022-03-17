@@ -1,10 +1,10 @@
 {
   "acala": {
-    "icon": "/networks/acala.svg",
+    "icon": "/networks/acala.png",
     "name": "acala"
   },
   "bifrost": {
-    "icon": "/networks/bifrost.svg",
+    "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
   "hydra": {
@@ -12,11 +12,11 @@
     "name": "hydra"
   },
   "karura": {
-    "icon": "/networks/karura.svg",
+    "icon": "/networks/karura.png",
     "name": "karura"
   },
   "khala": {
-    "icon": "/networks/khala.svg",
+    "icon": "/networks/khala.png",
     "name": "khala"
   },
   "kintsugi": {
@@ -28,35 +28,35 @@
     "name": "kusama"
   },
   "laminar": {
-    "icon": "/networks/laminar.svg",
+    "icon": "/networks/laminar.png",
     "name": "laminar"
   },
   "phala": {
-    "icon": "/networks/phala.svg",
+    "icon": "/networks/phala.png",
     "name": "phala"
   },
   "plasm": {
-    "icon": "/networks/plasm.svg",
+    "icon": "/networks/plasm.png",
     "name": "plasm"
   },
   "polkaBTC": {
-    "icon": "/networks/polkabtc.svg",
+    "icon": "/networks/polkabtc.png",
     "name": "polkaBTC"
   },
   "polkadot": {
-    "icon": "/networks/polkadot.svg",
+    "icon": "/networks/polkadot.png",
     "name": "polkadot"
   },
   "rococo": {
-    "icon": "/networks/rococo.svg",
+    "icon": "/networks/rococo.png",
     "name": "rococo"
   },
   "statemine": {
-    "icon": "/networks/statemine.svg",
+    "icon": "/networks/statemine.png",
     "name": "statemine"
   },
   "quartz": {
-    "icon": "/networks/quartz.svg",
+    "icon": "/networks/quartz.png",
     "name": "quartz"
   }
 }
