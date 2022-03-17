@@ -54,5 +54,9 @@
   "statemine": {
     "icon": "/networks/statemine.svg",
     "name": "statemine"
+  },
+  "quartz": {
+    "icon": "/networks/quartz.svg",
+    "name": "quartz"
   }
 }
