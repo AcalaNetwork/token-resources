@@ -62,5 +62,9 @@
   "parallel": {
     "icon": "/networks/parallel.png",
     "name": "parallel"
+  },
+  "parallel heiko": {
+    "icon": "/networks/parallel.png",
+    "name": "parallel heiko"
   }
 }
