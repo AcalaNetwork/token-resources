@@ -13,5 +13,6 @@
   "polkadot": "https://resources.acala.network/networks/polkadot.png",
   "rococo": "https://resources.acala.network/networks/rococo.png",
   "statemine": "https://resources.acala.network/networks/statemine.png",
-  "quartz": "https://resources.acala.network/networks/quartz.png"
+  "quartz": "https://resources.acala.network/networks/quartz.png",
+  "parallel": "https://resources.acala.network/networks/parallel.png"
 }
