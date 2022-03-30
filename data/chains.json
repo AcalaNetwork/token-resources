@@ -23,6 +23,10 @@
     "icon": "/networks/kintsugi.png",
     "name": "kintsugi"
   },
+  "kico": {
+    "icon": "/networks/kico.png",
+    "name": "kico"
+  },
   "kusama": {
     "icon": "/networks/kusama.png",
     "name": "kusama"
