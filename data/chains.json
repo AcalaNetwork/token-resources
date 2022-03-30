@@ -3,6 +3,10 @@
     "icon": "/networks/acala.png",
     "name": "acala"
   },
+  "basilisk": {
+    "icon": "/networks/basilisk.png",
+    "name": "basilisk"
+  },
   "bifrost": {
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
