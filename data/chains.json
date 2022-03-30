@@ -7,6 +7,10 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
+  "crust shadow": {
+    "icon": "/networks/crust shadow.png",
+    "name": "crust shadow"
+  },
   "hydra": {
     "icon": "/networks/hydra.png",
     "name": "hydra"
