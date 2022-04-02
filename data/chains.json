@@ -70,5 +70,13 @@
   "moonriver": {
     "icon": "/networks/moonriver.png",
     "name": "moonriver"
+  },
+  "kico": {
+    "icon": "/networks/kico.png",
+    "name": "kico"
+  },
+  "crust shadow": {
+    "icon": "/networks/crust shadow.png",
+    "name": "crust shadow"
   }
 }
