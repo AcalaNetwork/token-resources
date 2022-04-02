@@ -66,5 +66,9 @@
   "parallel heiko": {
     "icon": "/networks/parallel heiko.png",
     "name": "parallel heiko"
+  },
+  "moonriver": {
+    "icon": "/networks/moonriver.png",
+    "name": "moonriver"
   }
 }
