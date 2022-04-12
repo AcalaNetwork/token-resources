@@ -7,6 +7,14 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
+  "equilibrium": {
+    "icon": "/networks/equilibrium.png",
+    "name": "equilibrium"
+  },
+  "genshiro": {
+    "icon": "/networks/genshiro.png",
+    "name": "genshiro"
+  },
   "hydra": {
     "icon": "/networks/hydra.png",
     "name": "hydra"
