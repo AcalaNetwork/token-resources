@@ -78,5 +78,9 @@
   "crust shadow": {
     "icon": "/networks/crust shadow.png",
     "name": "crust shadow"
+  },
+  "altair": {
+    "icon": "/networks/altair.png",
+    "name": "altair"
   }
 }
