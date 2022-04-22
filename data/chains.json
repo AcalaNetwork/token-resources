@@ -7,6 +7,10 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
+  "ethereum": {
+    "icon": "/networks/ethereum.png",
+    "name": "ethereum"
+  },
   "hydra": {
     "icon": "/networks/hydra.png",
     "name": "hydra"
