@@ -3,9 +3,21 @@
     "icon": "/networks/acala.png",
     "name": "acala"
   },
+  "basilisk": {
+    "icon": "/networks/basilisk.png",
+    "name": "basilisk"
+  },
   "bifrost": {
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
+  },
+  "equilibrium": {
+    "icon": "/networks/equilibrium.png",
+    "name": "equilibrium"
+  },
+  "genshiro": {
+    "icon": "/networks/genshiro.png",
+    "name": "genshiro"
   },
   "ethereum": {
     "icon": "/networks/ethereum.png",
@@ -82,5 +94,9 @@
   "crust shadow": {
     "icon": "/networks/crust shadow.png",
     "name": "crust shadow"
+  },
+  "altair": {
+    "icon": "/networks/altair.png",
+    "name": "altair"
   }
 }
