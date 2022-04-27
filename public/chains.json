@@ -16,5 +16,8 @@
   "statemine": "https://resources.acala.network/networks/statemine.png",
   "quartz": "https://resources.acala.network/networks/quartz.png",
   "parallel": "https://resources.acala.network/networks/parallel.png",
-  "parallel heiko": "https://resources.acala.network/networks/parallel heiko.png"
+  "parallel heiko": "https://resources.acala.network/networks/parallel heiko.png",
+  "moonriver": "https://resources.acala.network/networks/moonriver.png",
+  "kico": "https://resources.acala.network/networks/kico.png",
+  "crust shadow": "https://resources.acala.network/networks/crust shadow.png"
 }
