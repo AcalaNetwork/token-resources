@@ -1,11 +1,11 @@
 {
   "acala": "https://resources.acala.network/networks/acala.png",
+  "basilisk": "https://resources.acala.network/networks/basilisk.png",
   "bifrost": "https://resources.acala.network/networks/bifrost.png",
   "equilibrium": "https://resources.acala.network/networks/equilibrium.png",
   "genshiro": "https://resources.acala.network/networks/genshiro.png",
   "ethereum": "https://resources.acala.network/networks/ethereum.png",
   "hydra": "https://resources.acala.network/networks/hydra.png",
-  "integritee": "https://resources.acala.network/networks/integritee.png",
   "karura": "https://resources.acala.network/networks/karura.png",
   "khala": "https://resources.acala.network/networks/khala.png",
   "kintsugi": "https://resources.acala.network/networks/kintsugi.png",
@@ -22,6 +22,6 @@
   "parallel heiko": "https://resources.acala.network/networks/parallel heiko.png",
   "moonriver": "https://resources.acala.network/networks/moonriver.png",
   "kico": "https://resources.acala.network/networks/kico.png",
-  "crust shadow": "https://resources.acala.network/networks/crust shadow.png"
+  "crust shadow": "https://resources.acala.network/networks/crust shadow.png",
+  "altair": "https://resources.acala.network/networks/altair.png"
 }
-
