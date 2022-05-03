@@ -11,6 +11,10 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
+  "calamari": {
+    "icon": "/networks/calamari.png",
+    "name": "calamari"
+  },
   "equilibrium": {
     "icon": "/networks/equilibrium.png",
     "name": "equilibrium"
