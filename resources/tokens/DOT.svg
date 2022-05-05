@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1326.1 1410.3" style="enable-background:new 0 0 1326.1 1410.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#E6007A;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E6007A;}
 </style>
-<ellipse class="st0" cx="663" cy="147.9" rx="254.3" ry="147.9"/>
-<ellipse class="st0" cx="663" cy="1262.3" rx="254.3" ry="147.9"/>
-<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1512 369.5916)" class="st0" cx="180.5" cy="426.5" rx="254.3" ry="148"/>
-<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1552 1483.9517)" class="st0" cx="1145.6" cy="983.7" rx="254.3" ry="147.9"/>
-<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -467.6798 222.044)" class="st0" cx="180.5" cy="983.7" rx="148" ry="254.3"/>
-<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -59.8007 629.9254)" class="st0" cx="1145.6" cy="426.6" rx="147.9" ry="254.3"/>
+<circle class="st0" cx="663" cy="705.2" r="663"/>
+<ellipse class="st1" cx="663" cy="299.6" rx="185.1" ry="107.6"/>
+<ellipse class="st1" cx="663" cy="1110.6" rx="185.1" ry="107.6"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1555 521.1821)" class="st1" cx="311.8" cy="502.4" rx="185.1" ry="107.7"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1566 1332.2379)" class="st1" cx="1014.2" cy="907.9" rx="185.1" ry="107.6"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -412.1605 277.5444)" class="st1" cx="311.8" cy="907.9" rx="107.7" ry="185.1"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -115.3044 574.4368)" class="st1" cx="1014.2" cy="502.4" rx="107.6" ry="185.1"/>
 </svg>

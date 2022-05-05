@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#e6007a;}</style></defs><g id="Background"><rect class="cls-1" width="2000" height="2000"/></g><g id="Logo"><ellipse class="cls-2" cx="1000" cy="441.78" rx="254.27" ry="147.95"/><ellipse class="cls-2" cx="1000" cy="1556.15" rx="254.27" ry="147.95"/><ellipse class="cls-2" cx="517.47" cy="720.38" rx="254.27" ry="147.95" transform="translate(-365.13 808.33) rotate(-60)"/><ellipse class="cls-2" cx="1482.53" cy="1277.56" rx="254.27" ry="147.95" transform="translate(-365.13 1922.69) rotate(-60)"/><ellipse class="cls-2" cx="517.47" cy="1277.56" rx="147.95" ry="254.27" transform="translate(-569.45 429.89) rotate(-30)"/><ellipse class="cls-2" cx="1482.53" cy="720.38" rx="147.95" ry="254.27" transform="translate(-161.57 837.78) rotate(-30)"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1326.1 1410.3" style="enable-background:new 0 0 1326.1 1410.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E6007A;}
+</style>
+<circle class="st0" cx="663" cy="705.2" r="663"/>
+<ellipse class="st1" cx="663" cy="299.6" rx="185.1" ry="107.6"/>
+<ellipse class="st1" cx="663" cy="1110.6" rx="185.1" ry="107.6"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1555 521.1821)" class="st1" cx="311.8" cy="502.4" rx="185.1" ry="107.7"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -279.1566 1332.2379)" class="st1" cx="1014.2" cy="907.9" rx="185.1" ry="107.6"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -412.1605 277.5444)" class="st1" cx="311.8" cy="907.9" rx="107.7" ry="185.1"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -115.3044 574.4368)" class="st1" cx="1014.2" cy="502.4" rx="107.6" ry="185.1"/>
+</svg>
