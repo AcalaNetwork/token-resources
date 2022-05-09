@@ -75,6 +75,10 @@
     "icon": "/networks/statemine.png",
     "name": "statemine"
   },
+  "turing": {
+    "icon": "/networks/turing.png",
+    "name": "turing"
+  },
   "quartz": {
     "icon": "/networks/quartz.png",
     "name": "quartz"
