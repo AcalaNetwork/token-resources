@@ -106,5 +106,9 @@
   "altair": {
     "icon": "/networks/altair.png",
     "name": "altair"
+  },
+  "moonbeam": {
+    "icon": "/networks/moonbeam.png",
+    "name": "moonbeam"
   }
 }
