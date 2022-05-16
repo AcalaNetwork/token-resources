@@ -55,6 +55,10 @@
     "icon": "/networks/phala.png",
     "name": "phala"
   },
+  "pioneer": {
+    "icon": "/networks/pioneer.png",
+    "name": "pioneer"
+  },
   "plasm": {
     "icon": "/networks/plasm.png",
     "name": "plasm"
