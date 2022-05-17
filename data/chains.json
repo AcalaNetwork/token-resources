@@ -15,6 +15,10 @@
     "icon": "/networks/calamari.png",
     "name": "calamari"
   },
+  "crab": {
+    "icon": "/networks/crab.png",
+    "name": "crab"
+  },
   "equilibrium": {
     "icon": "/networks/equilibrium.png",
     "name": "equilibrium"
