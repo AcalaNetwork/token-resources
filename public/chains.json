@@ -3,6 +3,7 @@
   "basilisk": "https://resources.acala.network/networks/basilisk.png",
   "bifrost": "https://resources.acala.network/networks/bifrost.png",
   "calamari": "https://resources.acala.network/networks/calamari.png",
+  "crab": "https://resources.acala.network/networks/crab.png",
   "equilibrium": "https://resources.acala.network/networks/equilibrium.png",
   "genshiro": "https://resources.acala.network/networks/genshiro.png",
   "ethereum": "https://resources.acala.network/networks/ethereum.png",
@@ -13,16 +14,19 @@
   "kusama": "https://resources.acala.network/networks/kusama.png",
   "laminar": "https://resources.acala.network/networks/laminar.png",
   "phala": "https://resources.acala.network/networks/phala.png",
+  "pioneer": "https://resources.acala.network/networks/pioneer.png",
   "plasm": "https://resources.acala.network/networks/plasm.png",
   "polkaBTC": "https://resources.acala.network/networks/polkabtc.png",
   "polkadot": "https://resources.acala.network/networks/polkadot.png",
   "rococo": "https://resources.acala.network/networks/rococo.png",
   "statemine": "https://resources.acala.network/networks/statemine.png",
+  "turing": "https://resources.acala.network/networks/turing.png",
   "quartz": "https://resources.acala.network/networks/quartz.png",
   "parallel": "https://resources.acala.network/networks/parallel.png",
   "parallel heiko": "https://resources.acala.network/networks/parallel heiko.png",
   "moonriver": "https://resources.acala.network/networks/moonriver.png",
   "kico": "https://resources.acala.network/networks/kico.png",
   "crust shadow": "https://resources.acala.network/networks/crust shadow.png",
-  "altair": "https://resources.acala.network/networks/altair.png"
+  "altair": "https://resources.acala.network/networks/altair.png",
+  "moonbeam": "https://resources.acala.network/networks/moonbeam.png"
 }
