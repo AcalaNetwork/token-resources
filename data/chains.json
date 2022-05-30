@@ -118,5 +118,9 @@
   "moonbeam": {
     "icon": "/networks/moonbeam.png",
     "name": "moonbeam"
+  },
+  "integritee": {
+    "icon":  "/networks/integritee.png",
+    "name": "integritee"
   }
 }
