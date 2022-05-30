@@ -3,6 +3,10 @@
     "icon": "/networks/acala.png",
     "name": "acala"
   },
+  "astar": {
+    "icon": "/networks/astar.png",
+    "name": "astar"
+  },
   "basilisk": {
     "icon": "/networks/basilisk.png",
     "name": "basilisk"
@@ -63,10 +67,6 @@
     "icon": "/networks/pioneer.png",
     "name": "pioneer"
   },
-  "plasm": {
-    "icon": "/networks/plasm.png",
-    "name": "plasm"
-  },
   "polkaBTC": {
     "icon": "/networks/polkabtc.png",
     "name": "polkaBTC"
@@ -78,6 +78,10 @@
   "rococo": {
     "icon": "/networks/rococo.png",
     "name": "rococo"
+  },
+  "shiden": {
+    "icon": "/networks/shiden.png",
+    "name": "shiden"
   },
   "statemine": {
     "icon": "/networks/statemine.png",
