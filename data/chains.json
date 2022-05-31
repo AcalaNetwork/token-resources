@@ -55,6 +55,10 @@
     "icon": "/networks/kusama.png",
     "name": "kusama"
   },
+  "kylin": {
+    "icon": "/networks/kylin.png",
+    "name": "kylin"
+  },
   "laminar": {
     "icon": "/networks/laminar.png",
     "name": "laminar"
@@ -62,6 +66,10 @@
   "phala": {
     "icon": "/networks/phala.png",
     "name": "phala"
+  },
+  "pichiu": {
+    "icon": "/networks/pichiu.png",
+    "name": "pichiu"
   },
   "pioneer": {
     "icon": "/networks/pioneer.png",
