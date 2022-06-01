@@ -23,6 +23,10 @@
     "icon": "/networks/crab.png",
     "name": "crab"
   },
+  "efinity": {
+    "icon": "/networks/efinity.png",
+    "name": "efinity"
+  },
   "equilibrium": {
     "icon": "/networks/equilibrium.png",
     "name": "equilibrium"
