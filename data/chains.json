@@ -138,5 +138,9 @@
   "integritee": {
     "icon":  "/networks/integritee.png",
     "name": "integritee"
+  },
+  "robonomics": {
+    "icon":  "/networks/robonomics.png",
+    "name": "robonomics"  
   }
 }
