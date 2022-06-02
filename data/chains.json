@@ -142,5 +142,9 @@
   "robonomics": {
     "icon":  "/networks/robonomics.png",
     "name": "robonomics"  
-  }
+  },
+  "gm parachain": {
+    "icon":  "/networks/gm.png",
+    "name": "gm parachain"
+  }  
 }
