@@ -43,6 +43,10 @@
     "icon": "/networks/hydra.png",
     "name": "hydra"
   },
+  "interlay": {
+    "icon": "/networks/interlay.png",
+    "name": "interlay"
+  },
   "karura": {
     "icon": "/networks/karura.png",
     "name": "karura"
@@ -136,15 +140,15 @@
     "name": "moonbeam"
   },
   "integritee": {
-    "icon":  "/networks/integritee.png",
+    "icon": "/networks/integritee.png",
     "name": "integritee"
   },
   "robonomics": {
-    "icon":  "/networks/robonomics.png",
-    "name": "robonomics"  
+    "icon": "/networks/robonomics.png",
+    "name": "robonomics"
   },
   "gm parachain": {
-    "icon":  "/networks/gm.png",
+    "icon": "/networks/gm.png",
     "name": "gm parachain"
-  }  
+  }
 }
