@@ -43,6 +43,10 @@
     "icon": "/networks/hydra.png",
     "name": "hydra"
   },
+  "interlay": {
+    "icon": "/networks/interlay.png",
+    "name": "interlay"
+  },
   "karura": {
     "icon": "/networks/karura.png",
     "name": "karura"
