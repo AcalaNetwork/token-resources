@@ -79,10 +79,6 @@
     "icon": "/networks/pioneer.png",
     "name": "pioneer"
   },
-  "polkaBTC": {
-    "icon": "/networks/polkabtc.png",
-    "name": "polkaBTC"
-  },
   "polkadot": {
     "icon": "/networks/polkadot.png",
     "name": "polkadot"
@@ -136,15 +132,15 @@
     "name": "moonbeam"
   },
   "integritee": {
-    "icon":  "/networks/integritee.png",
+    "icon": "/networks/integritee.png",
     "name": "integritee"
   },
   "robonomics": {
-    "icon":  "/networks/robonomics.png",
-    "name": "robonomics"  
+    "icon": "/networks/robonomics.png",
+    "name": "robonomics"
   },
   "gm parachain": {
-    "icon":  "/networks/gm.png",
+    "icon": "/networks/gm.png",
     "name": "gm parachain"
-  }  
+  }
 }
