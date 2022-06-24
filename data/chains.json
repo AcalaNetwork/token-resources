@@ -146,5 +146,9 @@
   "gm parachain": {
     "icon": "/networks/gm.png",
     "name": "gm parachain"
+  },
+  "arctic": {
+    "icon": "/networks/arctic.png",
+    "name": "arctic"
   }
 }
