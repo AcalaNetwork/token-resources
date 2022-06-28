@@ -67,6 +67,10 @@
     "icon": "/networks/kylin.png",
     "name": "kylin"
   },
+  "mangata-x": {
+    "icon": "/networks/mangata-x.png",
+    "name": "mangata-x"
+  },
   "laminar": {
     "icon": "/networks/laminar.png",
     "name": "laminar"
