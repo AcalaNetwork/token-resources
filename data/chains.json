@@ -75,6 +75,10 @@
     "icon": "/networks/laminar.png",
     "name": "laminar"
   },
+  "listen": {
+    "icon": "/networks/listen.png",
+    "name": "listen"
+  },
   "phala": {
     "icon": "/networks/phala.png",
     "name": "phala"
