@@ -1,12 +1,12 @@
 import Image from "next/image";
-import tokenList from "../data/tokens.json";
-import chainList from "../data/chains.json";
+import tokenList from "../resources/tokens.json";
+import networkList from "../resources/networks.json";
 import Head from "next/head";
-import { CopyToClipboard } from "react-copy-to-clipboard";
+// import { CopyToClipboard } from "react-copy-to-clipboard";
 
 const PUBLIC_HOST = 'https://resources.acala.network';
 const tokens = Object.values(tokenList)
-const chains = Object.values(chainList)
+const networks = Object.values(networkList)
 
 export default function Home() {
   const hostname = PUBLIC_HOST;
@@ -19,11 +19,11 @@ export default function Home() {
       <section className="max-w-[1200px] m-auto">
         <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between items-center">
           Token Icons
-          <CopyToClipboard text='https://resources.acala.network/tokens.json'>
+          {/* <CopyToClipboard text='https://resources.acala.network/tokens.json'>
             <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
               COPY PATH
             </span>
-          </CopyToClipboard>
+          </CopyToClipboard> */}
         </h3>
 
         <ul className="flex flex-wrap gap-12">
@@ -58,14 +58,14 @@ export default function Home() {
 
         <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between mt-32 items-center">
           Chain Icons
-          <CopyToClipboard text='https://resources.acala.network/chains.json'>
+          {/* <CopyToClipboard text='https://resources.acala.network/networks.json'>
             <span className="inlint-block ml-2 text-xs text-red-400 font-bold cursor-pointer self-end">
               COPY PATH
             </span>
-          </CopyToClipboard>
+          </CopyToClipboard> */}
         </h3>
         <ul className="flex flex-wrap gap-12">
-          {chains.map((item) => {
+          {networks.map((item) => {
             const file = `${hostname}${item.icon}`;
             const temp = item.icon.split("/");
 

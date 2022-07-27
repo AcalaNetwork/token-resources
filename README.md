@@ -1,14 +1,16 @@
-### Acala Resources
+## Acala Resources
 
-#### How To Contribute
-  1. add icon's file to **resource/tokens** or **resource/chains**
-  2. edit **data/chains.json** or **data/tokens.json**
-  3. send a PR to master
+### How To Add Token And Network Icon
+  1. prepare icons for token and network, if size is 64X64/128X128 and transparent background will better.
+  2. copy token icon file to **resources/tokens** and network icon to **resources/networks**.
+  3. edit **resources/tokens.json** and **resources/networks.json** to list your tokens to the preview page.
 
-#### How to Use
+### How to Get The Token's Resource Link
+  The token resource link will be created with the rule below:
+  **https://resources.acala.network/{TYPE}/{NAME}.png**
 
-  1. https://resources.acala.network/tokens/DOT.png
-  2. https://resources.acala.network/networks/polkadot.png
+  > token dot: https://resources.acala.network/tokens/DOT.png   
+  > polkadot network: https://resources.acala.network/networks/polkadot.png
   
-  To preview all tokens and network icons:
-  - https://resources.acala.network/
+### Preview All Token and Network
+  visit [acala-resource](https://resources.acala.network) page to preview all token and network icons.
