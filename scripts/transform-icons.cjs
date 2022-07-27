@@ -6,7 +6,10 @@ const getAllSvgs = () => {
   const networks = fs.readdirSync(path.join(__dirname, '../resources/networks'));
   const tokens = fs.readdirSync(path.join(__dirname, '../resources/tokens'));
 
-  return [...networks.map(name => { return { dir: 'networks', name } }), ...tokens.map(name => { return { dir: 'tokens', name } })];
+  return [
+    ...networks.map(name => ({ dir: 'networks', name })),
+    ...tokens.map(name => ({ dir: 'tokens', name }))
+  ];
 }
 
 const transform = async (sourceBuffer, size, name, dir) => {
@@ -29,8 +32,6 @@ const transformAll = async () => {
     if (name.endsWith('svg')) {
       promises.push(transform(sourceBuffer, 128, name.split('.')[0], dir))
     }
-
-    fs.writeFileSync(`./public/${dir}/${name.split('.')[0]}.png`, sourceBuffer)
   })
 
   await Promise.all(promises);
