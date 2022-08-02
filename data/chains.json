@@ -162,5 +162,9 @@
   "arctic": {
     "icon": "/networks/arctic.png",
     "name": "arctic"
+  },
+  "centrifuge": {
+    "icon": "/networks/centrifuge.png",
+    "name": "centrifuge"
   }
 }
