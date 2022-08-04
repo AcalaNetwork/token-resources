@@ -18,6 +18,8 @@
   "kylin": "https://resources.acala.network/networks/kylin.png",
   "mangata-x": "https://resources.acala.network/networks/mangata-x.png",
   "laminar": "https://resources.acala.network/networks/laminar.png",
+  "listen": "https://resources.acala.network/networks/listen.png",
+  "litmus": "https://resources.acala.network/networks/litmus.png",
   "phala": "https://resources.acala.network/networks/phala.png",
   "pichiu": "https://resources.acala.network/networks/pichiu.png",
   "pioneer": "https://resources.acala.network/networks/pioneer.png",
@@ -37,5 +39,6 @@
   "integritee": "https://resources.acala.network/networks/integritee.png",
   "robonomics": "https://resources.acala.network/networks/robonomics.png",
   "gm parachain": "https://resources.acala.network/networks/gm.png",
-  "arctic": "https://resources.acala.network/networks/arctic.png"
+  "arctic": "https://resources.acala.network/networks/arctic.png",
+  "centrifuge": "https://resources.acala.network/networks/centrifuge.png"
 }

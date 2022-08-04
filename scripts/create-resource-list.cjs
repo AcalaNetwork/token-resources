@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const tokens = require('../data/tokens.json');
-const chains  = require('../data/chains.json');
+const tokens = require('../resources/tokens.json');
+const chains  = require('../resources/networks.json');
 
 const STATIC_PATH = 'https://resources.acala.network';
 
