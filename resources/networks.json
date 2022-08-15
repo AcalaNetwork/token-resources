@@ -47,6 +47,10 @@
     "icon": "/networks/interlay.png",
     "name": "interlay"
   },
+  "kabocha": {
+    "icon": "/networks/kabocha.png",
+    "name": "kabocha"
+  },
   "karura": {
     "icon": "/networks/karura.png",
     "name": "karura"
