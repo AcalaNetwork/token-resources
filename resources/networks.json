@@ -43,6 +43,10 @@
     "icon": "/networks/hydra.png",
     "name": "hydra"
   },
+  "imbue": {
+    "icon": "/networks/imbue.png",
+    "name": "imbue"
+  },
   "interlay": {
     "icon": "/networks/interlay.png",
     "name": "interlay"
