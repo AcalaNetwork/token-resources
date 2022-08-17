@@ -174,5 +174,9 @@
   "centrifuge": {
     "icon": "/networks/centrifuge.png",
     "name": "centrifuge"
+  },
+  "zeitgeist": {
+    "icon": "/networks/zeitgeist.png",
+    "name": "zeitgeist"
   }
 }
