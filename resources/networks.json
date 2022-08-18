@@ -39,9 +39,9 @@
     "icon": "/networks/ethereum.png",
     "name": "ethereum"
   },
-  "hydra": {
-    "icon": "/networks/hydra.png",
-    "name": "hydra"
+  "hydradx": {
+    "icon": "/networks/hydradx.png",
+    "name": "hydradx"
   },
   "imbue": {
     "icon": "/networks/imbue.png",
