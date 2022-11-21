@@ -1,5 +1,7 @@
 ## Acala Resources
 
+Update 21/11/2022: to be deprecated, please use https://github.com/open-web3-stack/token-resources instead.
+
 ### 1. Add Token And Network Icon
   1. prepare icons for token and network, when the size is 64X64/128X128 and transparent background will better.
   2. copy token icon to **resources/tokens** and network icon to **resources/networks**.
